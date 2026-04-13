@@ -1,0 +1,33 @@
+To install first time
+ 
+# GitHub Installation Guide : Go to cmd
+
+a) git config --global user.name "vandanasoni84" (we can get username from github account)
+b) git config --global user.email "prsony22@gmail.com"
+c) git config --global color.ui auto
+
+# GitHub clone code
+a) go to git hub account right side code and download or
+b) got to git hub account copy url from right side code http go to created folder and go to cmd and type
+git clone url (https;//.......)
+
+# GitHub Setup and Installation Guide
+d) git init
+e) git remote add origin https://github.com/vandanasoni84/htmlcss.git
+f) git pull origin main
+g) git add .
+h) git status
+i) git commit -m "Add index.html and github commands file"
+i) git commit -m "comitt massage"
+j) git push (copy git push --set-upstream origin main)
+k) git push --set-upstream origin main
+If wrongly create file in wrong branch just go to github account and click compare and pull request and confirm
+
+# GitHub create new branch
+a) git checkout -b "new branch name"
+b) git push --set-upstream origin new branch name
+
+# GitHub enter new branch and merge
+a) git checkout "new branch name"
+
+add > commit > push
