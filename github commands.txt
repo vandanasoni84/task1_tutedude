@@ -19,8 +19,8 @@ g) git add .
 h) git status
 i) git commit -m "Add index.html and github commands file"
 i) git commit -m "comitt massage"
-j) git push (copy git push --set-upstream origin main)
-k) git push --set-upstream origin main
+j) git push origin master(copy git push --set-upstream origin master)
+k) git push --set-upstream origin master
 If wrongly create file in wrong branch just go to github account and click compare and pull request and confirm
 
 # GitHub create new branch
